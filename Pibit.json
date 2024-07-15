@@ -1,0 +1,119 @@
+{
+  "name": "Disha Choraria",
+  "email": "dishachoraria@kgpian.iitkgp.ac.in",
+  "phone": "+919830091431",
+  "education": [
+    {
+      "degree": "Integrated B.Tech/M.Tech",
+      "institution": "Indian Institute of Technology, Kharagpur",
+      "year": "2025",
+      "cgpa": "8.36/10"
+    },
+    {
+      "degree": "CBSE (XII)",
+      "institution": "Sushila Birla Girls’ School, Kolkata",
+      "year": "2019",
+      "percentage": "95.4%"
+    },
+    {
+      "degree": "CBSE (X)",
+      "institution": "Sushila Birla Girls’ School, Kolkata",
+      "year": "2017",
+      "cgpa": "9.4"
+    }
+  ],
+  "work_experience": [
+    {
+      "title": "Technology Analyst Intern",
+      "company": "Morgan Stanley",
+      "dates": "May’24 - July’24",
+      "responsibilities": [
+        "Implemented bifurcation of bulk queries on Search Service using Java to improve performance of priority queries by 12%",
+        "Designed and built a new cluster infrastructure to bifurcate the bulkier queries for dev, prod, and qa models",
+        "Designed a Kafka based service tickets to notify the clients of the changes made in the Private Wealth Management database"
+      ]
+    },
+    {
+      "title": "Bachelor Thesis Project",
+      "supervisor": "Prof. Amardip Ghosh, IIT Kharagpur",
+      "dates": "Aug’23 - Apr’24",
+      "responsibilities": [
+        "Designed and implemented LLM based chatbot capable of understanding aerospace documents and answering related questions",
+        "Eased the research process for PhD and Master’s students by making complex aerospace papers readable and understandable",
+        "Led the end-to-end development leveraging PyMuPDF, Pytesseract for OCR, VectorDB for data storage, and Streamlit for deployment"
+      ]
+    },
+    {
+      "title": "Quantitative Research Mentee",
+      "company": "JPMorgan Chase & Co.",
+      "dates": "Feb’23 - July’23",
+      "responsibilities": [
+        "Selected as one of the participants in the 6-month long mentorship program, among over 700 applicants from the country",
+        "Performed ML-based OCR using LR, SVM, RF, and CNN models, enhancing accuracy by 4% by hyperparameter tuning",
+        "Designed and developed a stock exchange simulation using OOPs to model entities, including traders and order matching engine"
+      ]
+    },
+    {
+      "title": "Analysis and enhancement of a swarm intelligence algorithm",
+      "company": "University of Birmingham",
+      "dates": "May’22 - July’22",
+      "responsibilities": [
+        "Analyzed Disassembly Sequence Problem, transformed Bees Algorithm from C++ to Python reducing the number of variables",
+        "Gained extensive insights into different swarm intelligence algorithms, specifically Bees Algorithm, through comprehensive research and exploration",
+        "Developed and designed novel strategies to prove the convergence of the Bees Algorithm improving its efficiency and performance"
+      ]
+    }
+  ],
+  "awards_and_achievements": [
+    "Secured 1st position among 800+ participants in Morgan Stanley Coding Challenge for Women 2023",
+    "Competitive Programming: Maximum rating of 1400+ (Specialist) on Codeforces and 1800+ (4 Star) on CodeChef",
+    "Selected as one of top 20 individuals for P&G Spotlight 2023 program",
+    "Selected as one of the participants in 6 month long Quantitative mentorship program organised by JPMorgan Chase & Co.",
+    "Ranked in top 0.5% of 11.7 lakh students who appeared for Joint Entrance Exam (JEE) 2020"
+  ],
+  "competitions": [
+    {
+      "name": "Optiver - Trading at the Close",
+      "dates": "Oct’23 - Dec’23",
+      "responsibilities": [
+        "Engineered a diverse feature set using Polars, Pandas, Numba, spanning statistical aggregations, time-based transformations",
+        "Applied advanced machine learning frameworks (LightGBM, TensorFlow, Neural Network) to develop and optimize predictive models for real-world datasets",
+        "Incorporated hyperparameter tuning strategies to improve model performance"
+      ]
+    }
+  ],
+  "skills": {
+    "programming_languages": ["C++", "Python", "C", "Java", "R", "SQL"],
+    "libraries": ["Generative AI", "LLMs", "Scikit-learn", "Pandas", "Matplotlib", "Numpy", "Keras", "TensorFlow", "Beautiful Soup", "LightGBM", "Polars"],
+    "coursework": [
+      "Advanced Calculus", "Transform Calculus", "Numerical Solutions of Ordinary & Partial Differential Equations",
+      "Linear Algebra", "Numerical Analysis", "Probability & Statistics", "Advanced Mathematics", "Machine Learning: Fundamentals and Applications"
+    ]
+  },
+  "positions_of_responsibility": [
+    {
+      "title": "General Secretary Technology",
+      "organization": "Sarojini Naidu/Indira Gandhi Hall of Residence, IIT Kharagpur",
+      "dates": "Aug’22 - Apr’23",
+      "responsibilities": [
+        "Developed and planned 10 events for General Championship Technology 2023 involving over 400 boarders",
+        "Organized multiple series of intrahall quizzes, competitions, and workshops on diverse tech-related topics"
+      ]
+    }
+  ],
+  "extra_curricular_activities": [
+    {
+      "title": "Unit Coordinator",
+      "organization": "National Service Scheme",
+      "dates": "Aug’21 - Apr’22",
+      "responsibilities": [
+        "Led a team of 35+ students in organizing welfare sessions and conducting a seminar on Solid Waste Management"
+      ]
+    }
+  ],
+  "additional_information": {
+    "awards": [
+      "Awarded a distinction in Sketching and Painting with a Diploma from Biswa Bangla School of Art, ranking 4th in West Bengal"
+    ]
+  }
+}
